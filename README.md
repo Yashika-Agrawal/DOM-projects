@@ -4,7 +4,7 @@ A collection of small projects built using vanilla JavaScript to master DOM mani
 
 ## Projects
 - 🌙 Dark Mode Toggle
-( coming soon more..)
+- Dynamic List Creator
 
 ## Tech Used
 - HTML
